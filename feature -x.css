@@ -1,3 +1,10 @@
 * {
     font-family: 'Courier New', Courier, monospace;
 }
+
+h1 {
+    color: blue;
+    font-size: 2cm;
+    text-align: center;
+    margin: 20px;
+}
